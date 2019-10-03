@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="PING PONG" package="pong" version="1.0.0" company="OpenFL" />
+	<app main="Main" path="Export" file="pong" />
+	<window width="640" height="480" fps="60" hardware="true" vsync="true"></window>
+	<source path="Source" />
+
+	<haxelib name="openfl" />
+
+	<assets path="Assets" rename="assets" exclude="*.svg" />
+	<icon path="Assets/openfl.svg" />
+
+</project>
