@@ -1,0 +1,18 @@
+# Mac & Win
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*Thumbs.db
+
+haxe/Export/
+webgl/Export/
+
+server/Export/
+
+tests/Export/
+
+server2/Export/
